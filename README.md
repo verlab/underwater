@@ -1,6 +1,6 @@
 # Project #
 
-This project is based on the paper [Single-Shot Underwater Image Restoration: A Visual Quality-Aware Method Based on Light Propagation Model](https://www.verlab.dcc.ufmg.br/) on the **Special Issue** at **Journal of Visual Communication and Image Representation** (JVCI 2018). It implements a method to restore the visual quality of images immersed underwater.
+This project is based on the paper [Single-Shot Underwater Image Restoration: A Visual Quality-Aware Method Based on Light Propagation Model](https://www.verlab.dcc.ufmg.br/) accepted on the **Journal of Visual Communication and Image Representation** (JVCI 2018). It implements a method to restore the visual quality of images immersed underwater.
 
 For more information and visual results, please acess the [project page](http://www.verlab.dcc.ufmg.br/).
 
@@ -39,12 +39,12 @@ http://www.verlab.dcc.ufmg.br
 
 If you are using it to academic purpose, please cite: 
 
-W. Barros, E. R. Nascimento, W. V. Barbosa, M. F. M. Campos, __Single-shot underwater image restoration: A visual quality-aware method based on light propagation model__, in: Special Issue at Journal of Visual Communication and Image Representation.
+W. Barros, E.R. Nascimento, W.V. Barbosa, M.F.M. Campos, __Single-Shot Underwater Image Restoration: A Visual Quality-Aware Method Based on Light Propagation Model__, in: Journal of Visual Communication and Image Representation (2018), doi: doi.org/10.1016/j.jvcir.2018.06.018
 
 ### Bibtex entry ###
 
 > @article{Barros2018,
-> title = {Single-shot underwater image restoration: A visual quality-aware method based on light propagation model},  
+> title = {Single-Shot Underwater Image Restoration: A Visual Quality-Aware Method Based on Light Propagation Model},  
 > author = {Wagner Barros and Erickson R. Nascimento and Walysson V. Barbosa and Mario F. M. Campos},  
 > journal = {Journal of Visual Communication and Image Representation},  
 > volume = {},  
@@ -52,7 +52,7 @@ W. Barros, E. R. Nascimento, W. V. Barbosa, M. F. M. Campos, __Single-shot under
 > pages = {},  
 > year = {2018},  
 > issn = {},  
-> doi = {}  
+> doi = {10.1016/j.jvcir.2018.06.018}  
 > }
 
 #### Enjoy it. ####
